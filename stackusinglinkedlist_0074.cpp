@@ -52,3 +52,5 @@ public:
 		return top == NULL;
 	}
 };
+
+int main(){}
