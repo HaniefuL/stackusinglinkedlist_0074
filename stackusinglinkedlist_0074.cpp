@@ -15,7 +15,10 @@ class Stack {
 private:
 	Node* top;
 public:
-	stack() {
+	Stack() {
+		top = NULL;
+	}
+	int push(int value) {
 
 	}
 };
