@@ -36,5 +36,7 @@ public:
 	}
 
 	void peek() {
+		if (top == NULL) {
+		}
 	}
 };
