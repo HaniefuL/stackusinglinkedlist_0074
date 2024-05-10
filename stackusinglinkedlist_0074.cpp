@@ -15,4 +15,7 @@ class Stack {
 private:
 	Node* top;
 public:
+	stack() {
+
+	}
 };
