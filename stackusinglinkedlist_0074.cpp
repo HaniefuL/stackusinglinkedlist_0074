@@ -53,4 +53,6 @@ public:
 	}
 };
 
-int main(){}
+int main() {
+	Stack stack;
+}
