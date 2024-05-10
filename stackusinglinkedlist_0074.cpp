@@ -39,6 +39,9 @@ public:
 		if (top == NULL) {
 			cout << "List is empty." << endl;
 		}
-		else {}
+		else {
+			Node* current = top;
+			while (current != NULL) {}
+		}
 	}
 };
