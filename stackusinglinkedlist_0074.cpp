@@ -41,7 +41,11 @@ public:
 		}
 		else {
 			Node* current = top;
-			while (current != NULL) {}
+			while (current != NULL) {
+				cout << current->data << " " << endl;
+				current = current->next;
+			}
+			cout << endl;
 		}
 	}
 };
